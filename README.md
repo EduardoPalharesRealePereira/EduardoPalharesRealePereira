@@ -1,4 +1,9 @@
 Eduardo Palhares Reale Pereira
+
+About me:
+My name is Eduardo Reale and I am a Software Engineering student. I have a strong interest in software development. I am passionate about working with teamates and creating solving problems softwares.
+
+
 <div> 
 <a href="https://www.instagram.com/dudureale/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/eduardo-reale-21ba97275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
