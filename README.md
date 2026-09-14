@@ -1,16 +1,16 @@
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png"/>
 Eduardo Palhares Reale Pereira
 
 About me:
 My name is Eduardo Reale and I am a Software Engineering student. I have a strong interest in software development. I am passionate about working with teamates and creating solving problems softwares.
 
-
+Contact:
 <div> 
 <a href="https://www.instagram.com/dudureale/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/eduardo-reale-21ba97275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:dudureale04@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 💻 Tech Stack:
-
 <div>
 <img src="https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -18,4 +18,11 @@ My name is Eduardo Reale and I am a Software Engineering student. I have a stron
 <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-%2300758F?style=for-the-badge&logo=sql&logoColor=white">
+
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@209ef178-2a46-4a40-8e6d-b8946cc2b2af/98e9b22b-3964-43e0-8e8d-ce5cf63fe1fe.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@209ef178-2a46-4a40-8e6d-b8946cc2b2af/bfd2f84a-ea56-4e0b-a0e3-bb30d160287f.png" /></a>
+  
 </div>
+
